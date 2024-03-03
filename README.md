@@ -5,8 +5,12 @@ This repository hosts an engaging and delightful Apple-inspired scroll animation
 
 ### Features 🔍 
 Smooth and fluid animation mimicking the scroll behavior of an apple
+
 Easy integration into your web projects with simple HTML/CSS/JS
+
 Customizable parameters to fit your design needs
+
+<br>
 
 Made by **Abdul Qadir Azam 🚀**
 
