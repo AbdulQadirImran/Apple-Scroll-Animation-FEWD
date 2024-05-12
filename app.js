@@ -1,4 +1,5 @@
 const html = document.documentElement;
+
 const canvas = document.querySelector('.airpod-scrolling');
 
 const context = canvas.getContext('2d');
